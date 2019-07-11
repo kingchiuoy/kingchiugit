@@ -1,1 +1,1 @@
-This is the original text. We wnat to explain how merge conflict happens.
+But we also want to add some text here in the branch test
