@@ -1,0 +1,1 @@
+This is the original text. We wnat to explain how merge conflict happens.
